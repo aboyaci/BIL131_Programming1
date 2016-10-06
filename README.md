@@ -1,2 +1,3 @@
-# BIL131_Programming1
+# BIL131 Programming 1
+
 İstanbul Ticaret University Programming 1 resources
