@@ -1,6 +1,6 @@
 SOURCE_FILES := $(wildcard *.c)
 BIN_FILES := $(SOURCE_FILES:.c=.out)
-C_FLAGS := -Wall
+C_FLAGS := -Wall -lcurses
 
 all : $(BIN_FILES)
 

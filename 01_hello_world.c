@@ -7,7 +7,14 @@
 
 #include <stdio.h> /* include standart I/O header to use the printf function */
 
-void main() /* main function */
+/* 
+	main function: 
+		every c program have to have a main function
+		program execution starts from here
+
+*/
+int main()
 {
-	printf("Hello Wolrd!\n"); /* print "hello wolrd to screen" */
+	/* print "hello wolrd to screen" */
+	printf("Hello Wolrd!\n");
 }
