@@ -9,12 +9,12 @@
 
 /* 
 	main function: 
-		every c program have to have a main function
+		every c program has to have a main function
 		program execution starts from here
 
 */
 int main()
 {
-	/* print "hello wolrd to screen" */
-	printf("Hello Wolrd!\n");
+	/* print "hello world to screen" */
+	printf("Hello World!\n");
 }
